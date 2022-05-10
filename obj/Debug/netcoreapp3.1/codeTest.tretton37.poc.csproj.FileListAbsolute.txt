@@ -1,0 +1,14 @@
+C:\CodeTest\codeTest.tretton37.poc\bin\Debug\netcoreapp3.1\codeTest.tretton37.poc.exe
+C:\CodeTest\codeTest.tretton37.poc\bin\Debug\netcoreapp3.1\codeTest.tretton37.poc.deps.json
+C:\CodeTest\codeTest.tretton37.poc\bin\Debug\netcoreapp3.1\codeTest.tretton37.poc.runtimeconfig.json
+C:\CodeTest\codeTest.tretton37.poc\bin\Debug\netcoreapp3.1\codeTest.tretton37.poc.runtimeconfig.dev.json
+C:\CodeTest\codeTest.tretton37.poc\bin\Debug\netcoreapp3.1\codeTest.tretton37.poc.dll
+C:\CodeTest\codeTest.tretton37.poc\bin\Debug\netcoreapp3.1\codeTest.tretton37.poc.pdb
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.csproj.AssemblyReference.cache
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.AssemblyInfoInputs.cache
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.AssemblyInfo.cs
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.csproj.CoreCompileInputs.cache
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.dll
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.pdb
+C:\CodeTest\codeTest.tretton37.poc\obj\Debug\netcoreapp3.1\codeTest.tretton37.poc.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CodeTest\\codeTest.tretton37.poc\\codeTest.tretton37.poc.csproj": {}
+  },
+  "projects": {
+    "C:\\CodeTest\\codeTest.tretton37.poc\\codeTest.tretton37.poc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodeTest\\codeTest.tretton37.poc\\codeTest.tretton37.poc.csproj",
+        "projectName": "codeTest.tretton37.poc",
+        "projectPath": "C:\\CodeTest\\codeTest.tretton37.poc\\codeTest.tretton37.poc.csproj",
+        "packagesPath": "C:\\Users\\KARAS\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeTest\\codeTest.tretton37.poc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KARAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://hm.myget.org/F/disco-infra-nservicebus/auth/75a745b3-e8f3-41ec-b9e4-b9867e8ab39b/api/v3/index.json": {},
+          "https://hm.myget.org/F/disco-inhouse/auth/5a16270b-0265-432a-abdf-e56779863c18/api/v3/index.json": {},
+          "https://hm.myget.org/F/disco-nuget/auth/5a16270b-0265-432a-abdf-e56779863c18/api/v3/index.json": {},
+          "https://hm.myget.org/F/disco-productdevelopment/auth/a04c19a7-1d40-4345-b4b4-5fc94312e8bf/api/v3/index.json": {},
+          "https://pkgs.dev.azure.com/HM-GROUP/_packaging/Disco-NewProductDevelopment/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/HM-GROUP/_packaging/az-disco-product-declaration-feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

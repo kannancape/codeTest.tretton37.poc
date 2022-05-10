@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "codeTest.tretton37.poc/1.0.0": {
+        "runtime": {
+          "codeTest.tretton37.poc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "codeTest.tretton37.poc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
